@@ -9,7 +9,7 @@ Spring MVC, SQL, HTML,
 React Js, Go lang,
 Machine Learning, Python, NLP, and JavaScript.
 
-Currently looking for opprtunities.
+Currently looking for opportunities .
 
 
 
